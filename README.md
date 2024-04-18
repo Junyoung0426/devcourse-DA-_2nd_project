@@ -27,10 +27,11 @@ pip install numpy pandas matplotlib scikit-learn seaborn
 
 
 ## Dataset Description
+https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
 The dataset involves records from direct marketing campaigns of a banking institution. Key attributes include:
-Client information (age, job, marital status, education, etc.)
-Campaign details (contact, month, day of the week, duration)
-Previous campaign outcomes
+- Client information (age, job, marital status, education, etc.)
+- Campaign details (contact, month, day of the week, duration)
+- Previous campaign outcomes
 
 ## Usage
 To use this notebook:
@@ -38,7 +39,15 @@ To use this notebook:
 - Install all required dependencies as listed in the Installation section.
 - Open the notebook in Jupyter via the command:jupyter notebook Bank_Marketing.ipynb
 - Execute the notebook cells in order to perform the analysis.
+  
 ## Features
 Data Exploration: Analyze the distributions and relationships of various variables.
 Visual Analytics: Generate plots to visualize trends and insights.
 Predictive Modeling: Utilize machine learning algorithms to predict the outcomes of future marketing campaigns based on historical data.
+
+## Contributors
+- 권승구
+- 김민성
+- 손준영
+- 이건우
+- 한성
