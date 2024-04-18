@@ -8,8 +8,8 @@
 5. [Dataset Description](#dataset-description)
 6. [Usage](#usage)
 7. [Features](#features)
-8. [Contributing](#contributing)
-9. [License](#license)
+8. [Contributor](#contributor)
+
 
 ## Overview
 This project conducts a detailed analysis of data from bank marketing campaigns. The project aims to identify key factors that influence the success of these campaigns and to develop predictive models to forecast campaign outcomes.
