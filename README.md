@@ -42,9 +42,9 @@ To use this notebook:
 - Execute the notebook cells in order to perform the analysis.
   
 ## Features
-Data Exploration: Analyze the distributions and relationships of various variables.
-Visual Analytics: Generate plots to visualize trends and insights.
-Predictive Modeling: Utilize machine learning algorithms to predict the outcomes of future marketing campaigns based on historical data.
+- Data Exploration: Analyze the distributions and relationships of various variables.
+- Visual Analytics: Generate plots to visualize trends and insights.
+- Predictive Modeling: Utilize machine learning algorithms to predict the outcomes of future marketing campaigns based on historical data.
 
 ## Contributors
 - 권승구
