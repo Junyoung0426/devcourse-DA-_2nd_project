@@ -12,7 +12,7 @@
 9. [License](#license)
 
 ## Overview
-This Jupyter notebook conducts a detailed analysis of data from bank marketing campaigns. The project aims to identify key factors that influence the success of these campaigns and to develop predictive models to forecast campaign outcomes.
+This project conducts a detailed analysis of data from bank marketing campaigns. The project aims to identify key factors that influence the success of these campaigns and to develop predictive models to forecast campaign outcomes.
 
 ## Contents
 - `Bank_Marketing.ipynb`: The main Jupyter notebook which includes data preprocessing, exploratory data analysis, visualization, and machine learning modeling.
@@ -34,13 +34,10 @@ Previous campaign outcomes
 
 ## Usage
 To use this notebook:
-Clone the repository or download the Bank_Marketing.ipynb file.
-Install all required dependencies as listed in the Installation section.
-Open the notebook in Jupyter via the command:
-bash
-Copy code
-jupyter notebook Bank_Marketing.ipynb
-Execute the notebook cells in order to perform the analysis.
+- Clone the repository or download the Bank_Marketing.ipynb file.
+- Install all required dependencies as listed in the Installation section.
+- Open the notebook in Jupyter via the command:jupyter notebook Bank_Marketing.ipynb
+- Execute the notebook cells in order to perform the analysis.
 ## Features
 Data Exploration: Analyze the distributions and relationships of various variables.
 Visual Analytics: Generate plots to visualize trends and insights.
