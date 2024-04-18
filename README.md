@@ -24,7 +24,7 @@ This Jupyter notebook conducts a detailed analysis of data from bank marketing c
 ## Installation
 To set up your environment to run this notebook, you need to install the necessary Python libraries. Run the following command in your terminal:
 ```bash
-pip install numpy pandas matplotlib scikit-learn seaborn
+pip install numpy pandas matplotlib scikit-learn seaborn```
 
 ## Dataset Description
 The dataset involves records from direct marketing campaigns of a banking institution. Key attributes include:
