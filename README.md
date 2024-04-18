@@ -50,4 +50,4 @@ Predictive Modeling: Utilize machine learning algorithms to predict the outcomes
 - 김민성
 - 손준영
 - 이건우
-- 한성
+- 한성민
